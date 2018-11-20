@@ -1,0 +1,2 @@
+sanic>=0.7.0
+async_timeout>=2.0.1
